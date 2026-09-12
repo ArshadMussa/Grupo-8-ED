@@ -1,8 +1,6 @@
-# Grupo-5-EA
+# Grupo-8-ED
 Trabalhos de Lab
 Engenharia Informática Laboral
 Membros do Gropo:
-  Pita, Beatriz
+  Gregório, Andrade Narciso
   Mussa, Arshad Mahomed
-  Mucavele, Ernestina Ernesto
-  Pires, Ernesto
