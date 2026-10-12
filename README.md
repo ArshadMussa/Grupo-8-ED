@@ -1,5 +1,5 @@
-# Grupo-8-ED
-Trabalhos de Lab
+# Grupo-9-IO
+Trabalhos Prácticos de Investigação Operacional
 Engenharia Informática Laboral
 Membros do Gropo:
   Da Júlia, Mauro Ali
